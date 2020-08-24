@@ -1,0 +1,19 @@
+.center{
+   margin:auto;
+   width:fit-content
+}
+.app-image{
+	height:100%;
+	width:auto;
+	
+}
+.project-title{
+	padding:2rem;
+}
+.card:hover{
+	cursor:pointer
+}
+.web-image{
+	 height:auto;
+	 width:100%
+}
