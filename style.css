@@ -1,0 +1,21 @@
+.center{
+ justify-content:center;
+   display:flex
+}
+.app-image{
+	height:100%;
+	width:auto;
+	border:1px #f2f0f0 solid;
+	
+}
+.project-title{
+	padding:2rem;
+}
+.card:hover{
+	cursor:pointer
+}
+.web-image{
+	 height:auto;
+	 width:100%;
+	border:1px solid #f2f0f0;
+}
